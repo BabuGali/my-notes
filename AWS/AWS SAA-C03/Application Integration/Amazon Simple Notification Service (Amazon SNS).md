@@ -1,0 +1,12 @@
+- SNS is fully managed Service ( take care of the capacity planning, provisioning, monitoring, and patching)                 
+- can **not buffer the** messages
+- can be used with SQS to provide the buffering facility
+- Fully managed Pub/Sub service for A2A and A2P messaging
+- A2A - Application-to-Application
+- A2P - Application-to-Person
+- Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email.
+- message filtering
+- batch processing
+- ordering
+- decouping
+- 

@@ -1,0 +1,7 @@
+- protect your web applications from common exploits
+- AWS WAF helps you protect against common web exploits and bots that can affect availability, compromise security, or consume excessive resources.
+- Following are rate-based rules
+	- Blanket rate-based rule - to prevent source ip-address 
+	- URI specific rate-based rule - prevent IP address from making excessive requests to the URI of the application
+	- IP reputation rate-based rule - to prevent well -known malicious IP address from making excessive requests to the application
+- ![[AWS WAF.png]]

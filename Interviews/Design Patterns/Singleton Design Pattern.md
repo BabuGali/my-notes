@@ -1,0 +1,21 @@
+- It ensures only a single instance of a class exists throughout an application and provides access to that instance from anywhere in the codebase
+- It restrict the instantiation of a class to a singular instance
+- There are two forms of singleton design pattern
+	- Early Instantiation - creation of instance at load time
+		- static block - Exception handling
+		- Static variable - no Exception handling
+	- Lazy Instantiation - creation of instance when required
+		- thread safe singleton
+		- Double checking logging
+- Usages
+	- Singleton pattern is mostly used in multi-threaded and database applications. It is used in logging, caching, thread pools, configuration settings etc.
+	- Thread Safety
+- Disadvantages
+	- **Breaks the Open Closed Principle** - The Singleton class always returns its own instance and is never open for extension.
+	- Global state - The Singleton pattern introduces a global state, which can make it harder to track and reason about the behavior of the system. Changes to the Singleton instance can affect other application parts, potentially resulting in hidden bugs and unintended side effects.
+- Early Instantiation
+	- we create the instance of the class at the time of declaring the static data member, so instance of the class is created at the time of class loading.
+	- private static A obj=new A();//Early, instance will be created at load time
+- Lazy Instantiation
+	- 
+	

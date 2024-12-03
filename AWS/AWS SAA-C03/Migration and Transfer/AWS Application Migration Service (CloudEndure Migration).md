@@ -1,0 +1,5 @@
+- is **an agent-based solution that quickly migrates your supported versions of Windows- and Linux OS-based applications and databases to AWS**.
+- With AWS application migration service
+	- data from source servers is first replicated to AWS
+	- post data is replicated to AWS, tests are performed to ensure application performance from the cloud
+- 

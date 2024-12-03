@@ -1,0 +1,3 @@
+- It is a web service that helps you reliably **process and** **move data between different AWS compute and storage services**, as well as on-premises data sources, **at specified intervals**.
+- Both data pipelines and ETL are responsible for transferring data between sources and storage solutions, but they do so in different ways. **Data pipelines work with ongoing data streams** in real time, **while ETL focuses more on individual “batches”** of data for more specific purposes.
+- Its a managed ETL service

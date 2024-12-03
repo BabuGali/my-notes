@@ -1,0 +1,2 @@
+- **Reflection** enables the ability to examine or modify the runtime behaviour of applications running in the Java virtual machine.
+- **Java Reflection API** is used to manipulate class and its members which include fields, methods, constructor, etc. at runtime.

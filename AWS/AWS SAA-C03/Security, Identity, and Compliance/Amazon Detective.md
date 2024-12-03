@@ -1,0 +1,3 @@
+- It **investigate the data from various Amazon security services** such as Macie, GuardDuty, AWS security Hub, along with partner security tools
+- Amazon Detective simplifies the process of **investigating security findings** and **identifying the root cause**
+- Automatically collects log data from the AWS resources

@@ -1,0 +1,13 @@
+- Elastic container service with the **EC2 launch type**
+	- charged based on the EC2 instance and EBS Volume used
+	- EC2 (Deploy and manage your own cluster of self managed virtual machine instances that can each run one or more containers)
+- Elastic container service with the **Fargate Lunch Type**
+	- charged based on VCPU and memory resources
+	- Run containers without the overhead of managing and scaling servers and clusters
+	- AWS Fargate (Run containers directly, without any virtual machines to think about)
+- EC2 Launch Type allows you to package your application in containers, specify memory or CPU requirements, define IAM or networking policies, and finally launch your application. EC2 allows applications to run smoothly on customized cloud instances.
+- ECS with EC2 lunch type supports following network modes
+	- Host Mode - this is basic mode, in which networking of the container s directly tied to the underlying host
+	- Bridge Mode - a network bridge is created between host and container networking
+	- None Mode -containers do not have external connectivity
+	- AWSVPC mode - to maintain separate security policies

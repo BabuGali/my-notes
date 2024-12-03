@@ -1,0 +1,6 @@
+- saving plan is flexible pricing model that offers low prices on EC2, lambda, and forgate usages in exchange for a commitment to a consistent amount of usage for a 1 or 3 year term plan
+- reduce up to 72 % compared to on-demand
+-Three types of saving plans
+	-  Compute Savings Plans
+	- EC2 Instance Savings Plans,
+	  -  Amazon SageMaker Savings Plan

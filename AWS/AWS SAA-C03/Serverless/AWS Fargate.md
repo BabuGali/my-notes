@@ -1,0 +1,5 @@
+- serverless compute for container
+- it lets you focus on building applications without managing servers
+- compatible with Amazon ECS and Amazon EKS
+- AWS Fargate is a technology that you can use with Amazon ECS to **run containers without having to manage servers or clusters of Amazon EC2 instances**.
+- You cannot use Fargate without running ECS or EKS.

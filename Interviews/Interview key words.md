@@ -1,0 +1,3 @@
+- to reduce repetitive boilerplate code
+- improve efficiency and greatly minimize the risk of human error
+- 

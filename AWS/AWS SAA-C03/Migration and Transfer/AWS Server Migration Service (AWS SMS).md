@@ -1,0 +1,2 @@
+- Customers currently using Server Migration Service (SMS) are encouraged to switch to Application Migration Service for future migrations.
+- **Application Migration Service** is the primary migration service recommended for **lift-and-shift migrations to AWS**

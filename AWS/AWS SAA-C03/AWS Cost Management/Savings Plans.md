@@ -1,0 +1,22 @@
+- Savings Plans are a commitment based discount model. By making a commitment of spend you will use for 1 or 3 years, you receive a discount of up to 72%.
+- flexible price model
+- Compute Saving plans vs Instance Saving plans
+- Compute saving plans for all EC2 instance types regardless of instance family, size, AZ, region and OS
+- EC2 plans require you to commit to the same family in the same region
+- Saving plans does not support for RDS
+- Savings Plans **does not provide a capacity reservation.**
+-  Types
+	- Compute Saving plans
+		- regardless of region and size
+	- EC2 instance Saving plans
+		- same region and size
+	- SageMaker Saving plans
+		- is a flexible pricing model for Amazon SageMaker, in exchange for a commitment to a consistent amount of usage (measured in $/hour) for a **one or three year term**
+##### Saving plans vs Reserved Instances
+- Reserved Instances are based on the **commitment to use an instance at a particular price over a specific period**, while Savings Plans are based on the **commitment to spend a particular dollar amount per hour over a specific period**.
+- while Savings Plans are applicable to both EC2 and Fargate instances, RIs are only applicable to EC2 instances.
+- SP -> committing to use a set level of compute power in $/hour for 1 or 3 years.
+- RI - >committing to use a set level of compute power in $/hour for 1 or 3 years in a specific AWS Region and instance family.
+- SP -> usage applies to EC2 instance types,  AWS Fargate, Lambda, sagemaker
+- RI > EC2 instance types
+- - RIs and Savings Plans are available in three payment options: all up-front, partial up-front, and no up-front.

@@ -1,0 +1,3 @@
+- Natural and accurate language translation
+- It allows **to localize content** - such as websites and applications- for international users, and to easily translate large volumes of text efficiently
+- 

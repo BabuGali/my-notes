@@ -1,0 +1,33 @@
+- Simple Queue Service
+- Message metadata
+- Message large object - use extended client Library to upload large objects
+- Message fan-out
+	- **when a message published to an SNS topic is replicated and pushed to multiple endpoints**
+- Message queuing
+- Sequence message delivery
+- Visibility timeout 
+	- it is a period during which Amazon SQS prevents other consumers from receiving and processing a given message
+- Message scheduling
+- offers buffer capabilities to smooth out temporary volume spikes without loosing messages or increase latency
+- batch size
+- Message disposition 
+	- Maintain disposition state in metadata that describe delivery status
+- SQS metrics published to CloudWatch
+	- NoOfMessagesSent
+- Inflight Message Limit
+- Message Size
+- SQS deadletter queues
+- FIFO
+	- support 300 messages per second per API method
+	- with batch it can support 3000 per second per API method
+	- SNS is not compatible with FIFO
+	- .fifo suffix
+- ApproximateNumberOfMessagesVissible - for ASG auto-scale
+- Delay Queues
+	- to postpone the delivery of new messages to the queue for a few seconds
+	- minimum delay for a queue is 0 seconds and the maximum is 15 minutes
+- Use cases
+	-  If rest api taking time to process then use SQS approach
+
+
+

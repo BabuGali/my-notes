@@ -1,0 +1,2 @@
+- AWS Transfer Family securely scales your recurring business-to-business file transfers to AWS Storage services using SFTP, FTPS, FTP, and AS2 protocols. 
+- Seamlessly migrate, automate, and monitor your file transfer workflows into and out of **Amazon S3 and Amazon EFS** using the SFTP, FTPS, and FTP protocols

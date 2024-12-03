@@ -1,0 +1,3 @@
+- AWS Step Functions is a **visual workflow service** that helps developers use AWS services to build distributed applications, automate processes, orchestrate microservices, and create data and machine learning (ML) pipelines.
+- AWS Step Functions **lets you add resilient workflow automation to your applications in minutes—without writing code**
+- Amazon Step Functions allows you to build resilient serverless workflows using Amazon services such as Amazon Lambda, Amazon SNS, and Amazon DynamoDB

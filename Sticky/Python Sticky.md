@@ -1,0 +1,4 @@
+- Familiarize yourself with libraries like NumPy, pandas, and scikit-learn for data manipulation and model building.
+-  Fundamentals of ML: Study the basics of machine learning, including supervised learning (classification, regression), unsupervised learning (clustering, dimensionality reduction), and evaluation methods.
+- Deep Learning: Gain knowledge of neural networks and deep learning frameworks like TensorFlow or PyTorch. Understand concepts like convolutional neural networks (CNNs) and recurrent neural networks (RNNs).
+-  Data Handling: Learn how to preprocess and clean data, deal with missing data, perform feature scaling, and handle imbalanced datasets.

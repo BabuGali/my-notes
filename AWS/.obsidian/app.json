@@ -1,0 +1,24 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "foldHeading": false,
+  "showIndentGuide": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "smartIndentList": true,
+  "useTab": true,
+  "foldIndent": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false
+}

@@ -1,0 +1,7 @@
+- EventBridge is a serverless service that uses events to connect application components together, making it easier for you to build scalable event-driven applications.
+- EventBridge event buses are well suited for many-to-many routing of events between event-driven services
+-  EventBridge Pipes is intended for point-to-point integrations between these sources and  targets
+- Additional features
+	- Advance filtering
+	- Multiple destinations
+	- Fast and Reliable invocation

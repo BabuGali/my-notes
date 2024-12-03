@@ -1,0 +1,4 @@
+- Easily run and **scale Apache Spark, Hive, Presto, and other big data workloads**
+- It  is the industry-leading **cloud big data solution** for **petabyte-scale data processing**, interactive analytics, and machine learning
+-  Amazon Elastic MapReduce
+- Amazon **EMR Serverless**

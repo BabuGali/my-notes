@@ -1,0 +1,17 @@
+- **Find objects, people, text, scenes in images and videos** using ML
+- Facial analysis and facial search to do user verification, people counting
+- Create a database of "familiar faces" or compare against celebrities
+- Use cases
+	- **Labelling**
+	- Content Moderation
+		- Detect content that s inappropriate, unwanted or offensive ( images and video )
+		- Used in social media, broadcast media, advertising and ecommerce situations to create a safer user experience
+		- Set a Minimum Confidence threshold for items that will be flagged
+		- Flagged Sensitive content for manual review in Amazon Augmented
+		- Help comply with regulations
+       - Object and Scene detection is a feature that analyse the image or video to **assign labels** based upon its visual contents
+	- Text Detection
+	- Face detection and analysis
+	- Face search and Verifications
+	- Celebrity verification
+	- Pathing ( ex: sports game analysis of a video )

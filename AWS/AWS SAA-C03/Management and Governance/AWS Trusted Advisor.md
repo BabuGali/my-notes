@@ -1,0 +1,16 @@
+- AWS Trusted Advisor provides recommendations that help you follow AWS best practices.
+- Trusted Advisor evaluates your account by using checks
+- AWS Basic Support and AWS Developer Support
+	-  Customers can access core security checks and checks for service quotas
+-  AWS Business Support and AWS Enterprise Support
+	- customers can access all checks, including cost optimization, security, fault tolerance, performance, and service quotas
+- AWS Trusted Advisor Priority
+	- helps you focus on the most important recommendations **to optimize** your cloud deployments, improve resilience, and **address security gaps**
+##### Benefits
+- Checks from Trusted Advisor analyze your AWS environment and recommend actions to follow best practices in below five categories
+	- **Cost optimization**
+	- **Performance**
+	- Security
+	- Fault tolerance
+	- **Service quotas**
+	- identify underutilized EC2 instances

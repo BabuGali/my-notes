@@ -1,0 +1,2 @@
+-  a fully managed Docker container registry that makes it easy to store, share, and deploy container images
+- 

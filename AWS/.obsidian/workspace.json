@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "bfb64b183c24a47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "699efe03166639f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3b4a448987ebe8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44e14c36d7605873",
+    "type": "split",
+    "children": [
+      {
+        "id": "299643fb610908e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e1a9a6b6c0f231",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "758508ac94d0d27b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "EC2",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba94c361090aea42",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "82fbedada247475a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5f30e465ad3d534b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c865c5bdfa60ed2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "291e5a73df7b9244",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3e338ff41bc5a29b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61686d3493f1255b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2606a54adaa33351",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "23084cfa6aac53eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5cd8423c92b7e9e",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "97aaa884e8992a60",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-share-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bb8879bf55b0fb7",
+            "type": "leaf",
+            "state": {
+              "type": "sekund-main-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1eb5ddeec3739c5",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "quote-share:Share": false,
+      "sekund:Sekund Panes": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "c2e1a9a6b6c0f231",
+  "lastOpenFiles": [
+    "AWS SAA-C03/Others/Encription.md",
+    "AWS SAA-C03/000 AWS SAA-C03.md",
+    "Untitled.md",
+    "AWS SAA-C03/Others",
+    "AWS SAA-C03/Containers/Amazon Elastic Container Service (Amazon ECS).md",
+    "AWS SAA-C03/Others/ALB VS NLB VS ELB.md",
+    "AWS SAA-C03/Containers/Amazon Elastic Container Registry (Amazon ECR).md",
+    "AWS SAA-C03/Security, Identity, and Compliance/AWS Identity and Access Management (IAM).md",
+    "AWS Identity and Access Management (IAM).md",
+    "AWS SAA-C03/Security, Identity, and Compliance/0 Security, Identity, and Compliance.md",
+    "AWS SAA-C03/Firewall.md",
+    "AWS SAA-C03/Best Practices.md",
+    "AWS SAA-C03/Networking and Content Delivery/0 Networking and Content Delivery.md",
+    "AWS SAA-C03/Networking and Content Delivery/Amazon Route 53.md",
+    "AWS SAA-C03/Networking and Content Delivery/Amazon Route 53.md",
+    "AWS SAA-C03/storage/EFS.md",
+    "AWS SAA-C03/storage/0 Storage.md",
+    "AWS SAA-C03/storage/Storage Services.md",
+    "AWS SAA-C03/storage/EBS.md",
+    "AWS SAA-C03/Others/Saving Plans.md",
+    "AWS SAA-C03/Networking and Content Delivery/Amazon VPC.md",
+    "AWS SAA-C03/Networking and Content Delivery/Amazon VPC.md",
+    "AWS SAA-C03/storage/S3.md",
+    "AWS SAA-C03/AWS Cost Management/0 AWS Cost Management.md",
+    "AWS SAA-C03/AWS Cost Management/Billing.md",
+    "AWS SAA-C03/Serverless/0 Serverless.md",
+    "AWS SAA-C03/Migration and Transfer/0 Migration and Transfer.md",
+    "AWS SAA-C03/Networking and Content Delivery",
+    "AWS SAA-C03/Compute",
+    "Untitled",
+    "AWS SAA-C03/Containers",
+    "AWS SAA-C03/Serverless",
+    "AWS SAA-C03/Migration and Transfer",
+    "AWS SAA-C03/Management and Governance",
+    "AWS SAA-C03/Analytics",
+    "AWS SAA-C03/images/Amazon RDS.png",
+    "AWS SAA-C03/AWS Cost Management",
+    "AWS SAA-C03/images/Amazon GuardDuty.png",
+    "AWS SAA-C03/images/S3 retrieval options.png",
+    "AWS SAA-C03/images/Kenesis Data Firehose-2.png",
+    "AWS SAA-C03/images/Kenesis Data Firehose.png",
+    "AWS SAA-C03/images/S3-Lifecycle transitions.png",
+    "AWS SAA-C03/images/Amazon Forecast.png",
+    "AWS SAA-C03/images/bastion host.png",
+    "AWS SAA-C03/images/Internet Gateway.png",
+    "AWS SAA-C03/images/VPC Component.png",
+    "Untitled.canvas"
+  ]
+}

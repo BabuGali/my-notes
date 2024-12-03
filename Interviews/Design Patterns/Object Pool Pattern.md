@@ -1,0 +1,6 @@
+- Object pooling can offer a significant performance boost
+-  it is most effective in situations where the cost of initializing a class instance is high, the rate of instantiation of a class is high
+- Object pools (otherwise known as resource pools) are used to manage the object caching. A client with access to a Object pool can avoid creating a new Objects by simply asking the pool for one that has already been instantiated instead
+- The Object Pool lets others "check out" objects from its pool, when those objects
+- The object pool pattern keeps track of the objects it creates.
+- Object Pools are usually implemented as Singletons

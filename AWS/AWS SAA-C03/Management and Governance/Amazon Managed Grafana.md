@@ -1,0 +1,2 @@
+ - Scalable and secure data visualization for your operational metrics, logs, and traces
+- Amazon Managed Grafana is a fully managed service for Grafana, a popular open-source analytics platform that enables you to query, visualize, and alert on your metrics, logs, and traces.

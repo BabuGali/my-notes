@@ -1,0 +1,36 @@
+-  supports 1000 concurrent executions per AWS account per region
+- Amazon SNA message delivers will be throttled if the concurrency quotas limit exceed
+- When requests come in faster than you Lambda function can scale, then additional requests fails as the  Lambda throttles these requests with error code 429 status code 
+- AWS Lambda charged based on
+	- memory allocated to lambda function
+	- the total no of request to LF
+-  Lambda integrates with services like Amazon CloudWatch and AWS X-Ray
+- If lambda terminates after 15 minutes
+	- NONE, SQS, SNS
+	 - you can configure NONE, SQS, SNS, then to sends the payload for asynchronous invocation
+	 -  invocation errors
+	 - function errors
+- Lambda layers - used to package code 
+- Lambda aliases - used to refer specific version
+- Customise the Lambda functions that performs the rotation of the keys in the AWS secret manager
+- return error code 429 - for too many requests; when exceeded limit
+##### Use Cases
+- Operating serverless websites
+- Massively scaling operations
+- Real-time processing of high volumes of data
+- Predictive page rendering
+- Scheduled events for every task and data backup
+- Parse user input and cleanup backend data to increase a website’s rapid response time
+- Analyzing log data on-demand
+- Integrating with external services
+- Converting documents into the user-requested format on-demand
+#### Fargate vs Lambda
+- Purpose : 
+	- Fargate - Manage container-based serverless apps without needing to provision servers and clusters
+	- Lambda - Serverless computing option to manage small portions of an app, for example, a function
+- Execution Time
+	-  Fargate - Unlimited
+	-  Lambda - max 15 min
+- Network
+	- Fargate - private subnet ( public is not best practice)
+	- Lambda - private and public

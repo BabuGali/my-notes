@@ -1,0 +1,9 @@
+- Linear regression is **an algorithm that provides a linear relationship between an independent variable and a dependent variable to predict the outcome of future events**.
+- It is a statistical method used in data science and machine learning for predictive analysis.
+- Linear regression analysis is used **to predict the value of a variable based on the value of another variable**
+- The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
+- For example, it can be used to quantify the relative impacts of age, gender, and diet (the predictor variables) on height (the outcome variable)
+- Commonly used for
+	- Linear regression is commonly used for **predictive analysis and modeling**
+	- 
+- ![[Pasted image 20231130235226.png]]

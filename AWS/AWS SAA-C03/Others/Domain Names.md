@@ -1,0 +1,4 @@
+- myshopping.com and www.myshopping.com
+- in Route 53
+	- create alias record for myshopping.com point to ALB
+	- CNAME for www.myshopping.com pointing to ALB

@@ -1,0 +1,4 @@
+- ng new <project_name> To create the project template
+- ng serve --open  - it starts the application and open the browser - http://localhost:4200/
+- ng build - **compiles the Angular app into an output directory named dist/ at the given output path**
+- 

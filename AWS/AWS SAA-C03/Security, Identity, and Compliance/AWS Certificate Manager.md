@@ -1,0 +1,4 @@
+- Central manages SSL/TLS certificates
+- **monitor expiration date**
+- using amazon cloud watch events to send notice imported certificates approach expiration
+- Manual action is required for automating email validation 

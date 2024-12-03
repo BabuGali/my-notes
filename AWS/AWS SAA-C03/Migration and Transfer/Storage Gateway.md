@@ -1,0 +1,14 @@
+- AWS Storage Gateway is a set of hybrid cloud storage services that provide on-premises access to virtually unlimited cloud storage.
+- support three types of interfaces for your on-premises applications
+	- **Amazon S3 File Gateway**
+		- enables you to store and retrieve objects in Amazon Simple Storage Service (S3) using file protocols such as Network File System (NFS) and Server Message Block (SMB). Objects written through S3 File Gateway can be directly accessed in S3.
+		- supports region replication
+	- **Amazon FSx File Gateway** 
+		-  on-premises access to fully managed and low-latency for **windows file server**
+		- an ideal solution to consider when customers like to replace their on-premises file servers.
+		- Amazon FSx File Gateway supports multiple users sharing files, with advanced data management features such as access controls, snapshots for data protection, integrated backup
+	- **Volume Gateway** - provides block storage to your on-premises applications using iSCSI connectivity
+	- **Tape Gateway** -Tape Gateway enables you to replace using physical tapes on premises with virtual tapes in AWS without changing existing backup workflows.
+- to backup all on-premises data to Amazon S3
+- to speed up the backup - enable ECMP with multiple VPN tunnels associated with transit gateway
+	

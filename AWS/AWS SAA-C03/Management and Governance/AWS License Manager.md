@@ -1,0 +1,2 @@
+- Manage your software licenses and fine-tune licensing costs
+- License Manager makes it easier for you to manage your software licenses from vendors, such as Microsoft, SAP, Oracle, and IBM, across AWS and your on-premises environments.

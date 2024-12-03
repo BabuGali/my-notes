@@ -1,0 +1,6 @@
+- Main categories of disaster recovery
+	- Natural Disasters - earthquakes, or floods
+	- Technical failures - power failure or network connectivity
+	- Human Actions - misconfiguration, unauthorized/outside party access
+- High availability is not a disaster recovery
+- 

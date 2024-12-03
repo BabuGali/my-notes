@@ -1,0 +1,1 @@
+- The factory design pattern says that define an interface ( A java interface or an abstract class) for creating object and let the subclasses decide which class to instantiate.

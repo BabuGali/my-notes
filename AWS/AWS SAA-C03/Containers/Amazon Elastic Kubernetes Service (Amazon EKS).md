@@ -1,0 +1,1 @@
+- It is a managed Kubernetes service that **makes it easy for you to run Kubernetes on AWS and on-premises**

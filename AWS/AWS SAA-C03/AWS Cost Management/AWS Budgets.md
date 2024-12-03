@@ -1,0 +1,8 @@
+- Cost Explorer creates custom reports to analyse your usage and cost data, while Budgets help you create **custom spending plans so you can manage your costs** and **forecast your future spending **.
+- AWS Budgets can be used to **set custom budget based on** your expected usage and **notify you when a threshold is exceeded.**
+- **AWS Cost Anomaly Detection** uses advanced machine learning (ML) technologies to identify anomalous spend and root causes
+- Budgets focus on cost planning, implementation, and forecasting that have not yet been incurred
+- Configuring the budgets in the Billing and Cost management console is a recommended step
+- It can execute budget actions ( like preventing additional resource provisioning) using IAM role with necessary permissions
+- link a budget action to an IAM role for automatic prevention of additional resource provisioning
+- 

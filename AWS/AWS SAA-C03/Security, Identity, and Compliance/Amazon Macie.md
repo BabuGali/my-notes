@@ -1,0 +1,3 @@
+- Amazon Macie is a data security service that uses machine learning (ML) and pattern matching to discover and help **protect your sensitive data.**
+- Discover sensitive data across your S3 environment to increase visibility and **automated remediation of data security risks**.
+- Automatically and continually monitor all your s**ensitive data stored in S3 buckets**.

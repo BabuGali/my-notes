@@ -1,0 +1,4 @@
+- They both implement the List interface, an abstract structure built to maintain the ordering of the elements inserted.
+- The main difference is that LinkedList additionally implements the Deque interface, so developers can use it as a standard FIFO-like structure.
+- While ArrayList is based on an auto-resizable array, LinkedList uses pointers to the next and previous elements, building a chain of elements to grant access to data.
+- 

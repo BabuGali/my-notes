@@ -1,0 +1,11 @@
+- Per region
+- it enables you to assess, audit and evaluate the configurations of AWS resources  
+- **can aggregate data across different accounts**
+- AWS Config continually **assesses, audits, and evaluates the configurations** and relationships of your resources on AWS, on premises, and on other clouds.
+- **Evaluate resource configurations** for potential vulnerabilities, and review your configuration history after potential incidents to examine your security posture.
+- - AWS Config
+- AWS Config Rule
+	- **predefined rules , customizable rules** to evaluate whether your **AWS resources comply with common best practices**
+- Use cases
+	- check **certificate expiry time** of SSL/TLS and can **trigger SNS notification**
+ - 

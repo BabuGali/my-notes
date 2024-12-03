@@ -1,0 +1,1 @@
+- Amazon MSK makes it easy to ingest and process streaming data in real time with fully managed Apache Kafka.

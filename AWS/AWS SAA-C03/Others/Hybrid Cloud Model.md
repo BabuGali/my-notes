@@ -1,0 +1,10 @@
+- how users access AWS applications from on-premises applications
+	 - IAM Identity Center ( successor to AWS Single Sign-On )
+ - how to access EFS from on-premises
+	- To access **EFS file systems from on-premises**, you must have an **AWS Direct Connect** or **AWS VPN connection** between your on-premises datacenter and your Amazon VPC.
+	- There is no additional cost for on-premises access to your Amazon EFS file systems. You are charged for the AWS Direct Connect connection to your Amazon VPC.
+- How Amazon EFS works with AWS Direct Connect and AWS Managed VPN
+	- Keep the following considerations in mind when using Amazon EFS with an on-premises server:
+		 - Your on-premises server must have a Linux-based operating system. We recommend Linux kernel version 4.0 or later.
+		 - For the sake of simplicity, we recommend mounting an Amazon EFS file system on an on-premises server using a mount target IP address instead of a DNS name.
+		 - ![[EFS from on-premises.png]]

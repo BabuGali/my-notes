@@ -1,0 +1,2 @@
+- helps to **simplify the creation and operation of on-premises Kubernetes clusters while automating cluster management**
+- **EKS is a fully managed Kubernetes platform, while EKS-D is available to install and manage yourself**

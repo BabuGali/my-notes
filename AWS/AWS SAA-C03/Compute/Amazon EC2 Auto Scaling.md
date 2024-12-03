@@ -1,0 +1,6 @@
+- Amazon EC2 Auto Scaling **helps you maintain application availability and lets you automatically add or remove EC2 instances using scaling policies that you define**
+- Instances remain in the `InService` state until one of the following occurs:
+	- A scale-in event occurs, and Amazon EC2 Auto Scaling chooses to terminate this instance in order to reduce the size of the Auto Scaling group.
+	- you put the instance into a `Standby` state.
+	- You detach the instance from the Auto Scaling group
+	- The instance fails a required number of health checks, so it is removed from the Auto Scaling group, terminated, and replaced.

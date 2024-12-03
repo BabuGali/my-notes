@@ -1,0 +1,38 @@
+- ASG operate within a Region only
+- Standby State
+	- InService state - > StandBy state -> do patch or troubleshoot -> InService State
+	- instance in standby state are sill part of the Auto Scaling group, but they do not actively hand the application traffic
+	- Suspend the ScheduledActions process
+	- Suspend the ReplaceUnhealthy process
+- Amazon EC2 Auto Scaling features
+	- ASG can not use directly  cloudwatch alarm 
+	- Health check replacements
+	- Scaling policies
+		- Target Tracking policy ( CPU utilization 50% , request count)
+			- ASGAverageCPUUtilization
+			- ASGAverageNetworkIn
+			- ASGAverageNetworkOut
+			- ALBRequestCountPerTarget
+			- ECSServicesAverageCPUUtilization
+			- ECSServicesMemoryUtilization
+		- Step Scaling policy
+			- **you specify one or more step adjustments that automatically scale the number of instances dynamically based on the size of the alarm breach**
+			- 
+		- Simple Scaling policy
+			- Simple scaling **relies on a metric as a basis for scaling**. For example, you can set a CloudWatch alarm to have a CPU Utilization threshold of 80%, and then set the scaling policy to add 20% more capacity to your Auto Scaling group by launching new instances
+		- Schedule Scaling policies
+		- Dynamic Scaling -  step and simple scaling policies are dynamic scaling policies.  Both require you to create CloudWatch alarms for the scaling policies. Both require you to specify the high and low thresholds for the alarms. Both require you to define whether to add or remove instances, and how many, or set the group to an exact size.
+- Warm-up time
+	- estimated time, in seconds, until a newly launched instance can contribute to the cloudwatch metrics
+	- applies to instances launched with target and step scaling policy
+- Cooldown
+	- the required time gap to start another scaling after completes before scaling
+- health check grace period
+	- how long to wait before checking the health status of the instance
+ - Why unhealty instance not terminating
+	 - Instance has failed the ELB health check status
+	 - The instance may be in Impaired state
+	 - The health check grace period has not expired
+-  To aggregate metrics from all the ASG instances
+	- install a unified cloudwatch agent on all Amazon EC2 instances
+	-  aggregated using "aggregation_dimention" 

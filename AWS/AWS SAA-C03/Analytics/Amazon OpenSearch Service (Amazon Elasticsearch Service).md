@@ -1,0 +1,2 @@
+- Amazon OpenSearch Service makes it easy for you to **perform interactive log analytics, real-time application monitoring, website search**, and more
+- 

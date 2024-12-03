@@ -1,0 +1,11 @@
+- active/passive strategies
+- An active site (such as an AWS Region) to host the workload and serve traffic
+- The passive site (such as a different AWS Region) is used for recovery. The passive site does not actively serve traffic until a failover event is triggered.
+- RPO - Recovery Point Objective - its a amount of data loss during the recovery
+- RTO - Recovery Time Objective  -  its time between disaster and the application recovery 
+- for S3 you can use Cross-Region-Replication to asynchronously copy data 
+- Backup and restore
+- Pilot Light
+- Warm standby
+- Multi-site Active/active
+![[Disaster Recovery.png]]

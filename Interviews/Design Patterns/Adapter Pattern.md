@@ -1,0 +1,12 @@
+- An Adapter pattern acts as a connector between two incompatible interfaces that otherwise cannot be connected directly.
+-  its used so that two unrelated interfaces can work together. The object that joins these unrelated interface is called an **Adapter**.
+- Two approaches for Adapter Pattern
+	- Class Adapter - This form uses java inheritance and extends the source interface
+	- Object Adapter - This form uses Java Composition and adapter contains the source object
+- The Adapter pattern involves three main components -:
+	-  **Target**: This represents the interface or class that the client code expects to work with. It defines the operations that the client can use.
+	-  **Adaptee**: This refers to the existing class or interface that needs to be adapted. It has a different interface that is incompatible with the client’s expectations.
+	-  **Adapter**: This is the class that bridges the gap between the Target and Adaptee. It implements the Target interface and internally uses an instance of the Adaptee to perform the desired operations. The Adapter class acts as a wrapper or translator, adapting the Adaptee’s interface to match the Target interface.
+- Examples 
+	- `java.io.InputStreamReader` and `java.io.OutputStreamWriter` classes act as adapters that convert an `InputStream` into a `Reader` and an `OutputStream` into a `Writer`, respectively.
+	- The `java.util.Arrays.asList()` method is another example of the Adapter Design Pattern in action. This method converts an array into a `List` object, allowing for easier manipulation and processing of the data.

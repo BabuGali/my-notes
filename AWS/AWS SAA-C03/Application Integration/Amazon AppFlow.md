@@ -1,0 +1,7 @@
+- Automate data flows between **software as a service (SaaS) **such as Salesforce** and AWS services**, such as Amazon Simple Storage Service (Amazon S3) and Amazon Redshift.
+- No coding is required.
+- Fully managed integration service to transfer data between services such as Salesforce, SAP, Google Analytics, and Amazon Redshift.
+- Transfer data at scale without the need to provision system resources
+- With Amazon **AppFlow automate bi-directional data flows** between SaaS applications and AWS services in just a few clicks
+- Run the data flows at **the frequency you choose**, whether **on a schedule**, in **response to a business event, or on demand.**
+- 

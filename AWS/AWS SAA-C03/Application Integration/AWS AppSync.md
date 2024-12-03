@@ -1,0 +1,12 @@
+- Accelerate application development with serverless GraphQL and Pub/Sub APIs
+- AWS AppSync **creates serverless GraphQL and Pub/Sub APIs** that simplify application development through a single endpoint to securely query, update, or publish data.
+- **Pub/Sub APIs built** with AWS AppSync give frontend developers the ability to publish real-time data updates to subscribed API clients through serverless **WebSocket connections.**
+- Interact with and update data—even offline—with offline data synchronization, versioning, and conflict resolution.
+- Use cases
+	- Retrieve or modify data from multiple data sources
+		- Interact with multiple data sources (SQL, NoSQL, search data, REST endpoints, and microservices)
+	- Synchronize data if clients are disrupted
+		- Automatically sync data between mobile and web applications and the cloud with AWS AppSync and AWS Amplify DataStore.
+	- Build real-time collaboration and chat applications
+	- Manage IoT data
+		- Access device data sent to AWS IoT services to build **real-time dashboards in a mobile or web application.**

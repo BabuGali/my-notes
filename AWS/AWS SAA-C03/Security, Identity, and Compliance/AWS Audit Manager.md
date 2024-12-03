@@ -1,0 +1,2 @@
+-  It helps you continuously audit your AWS usage **to simplify how you assess risk and compliance with regulations and industry standards**
+- 

@@ -1,0 +1,26 @@
+SOLID
+- The Single Responsibility Principle
+- The Open Closed Principle
+- The Liskov Substitution Principle
+- The Interface Segregation Principle
+- The Dependency Inversion Principle
+
+- This Principle helps software developer to design robust, testable, extensible and maintainable software systems
+- Each of these FIVE design principles solvers particular problem that arises while developing software systems. 
+ - **Single Responsibility Principle**
+	- It states that a class, Module, function should have only one reason to change, means it should do one thing
+- **Open Closed Principle**
+	- It states that a class, Module or function should be open for extension but close for modification
+- **Liskov Substitution Principle**
+	- It states that the child classes or subclasses must be substitutable for their parent class
+	- The child class must be able to replace the parent class
+	- Subtypes must be substitutable for their base parents
+- **Interface Segregation Principle**
+	- It states that client should not be forced to implement interface or methods which they do not use
+	- More specifically, it suggest that software developers should break the** large interface into smaller**
+- **Dependency Inversion Principle**
+	- It states that high level modules should not depend on low level modules; both should depend on abstraction. Abstraction should not depend on details. Details should depend on abstraction
+	- 
+- **Difference between Inversion and Dependency Injection**
+	- The Dependency Inversion Principle focuses on making high-level and low-level modules depend on abstractions, while Dependency Injection is a technique for providing these abstractions to the modules at runtime
+	- Dependency Inversion focuses on **architectural design principles**, emphasizing abstraction over concretion. **Dependency Injection is a practical technique that enables the implementation of Dependency Inversion by injecting dependencies externally**

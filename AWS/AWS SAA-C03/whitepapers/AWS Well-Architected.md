@@ -1,0 +1,38 @@
+- Operational Excellency
+- Reliability
+- Security
+- Performance Efficiency
+- Sustainability
+- Cost Optimization
+- Operational Excellency
+	- It includes the ability to support development and run workloads effectively 
+	- Continuously improve the supporting processes and procedure to deliver business value
+	- 5 Design Principles
+		- Perform operation as code
+		- make frequent, small and reversible changes
+		- Refine operations procedures frequently
+		- Anticipate failure
+		- Learn from all operational failures
+	 - 4 Best Practices
+		 - Organization
+		 - Prepare
+		 - Operate
+		 - Evolve
+-  Security
+	- the ability to protect data, systems, and assets to take the advantage of could technologies to improve the security
+	- 3 Design Principles
+		- Implement a Strong identity foundation
+		- Maintain traceability
+		- Apply security at all layers
+		- Automate security best practices
+		- Protect data in transit and at rest
+		- keep people away from data
+		- prepare for security events
+		- 7 best security areas for security in the cloud
+			- Security foundations
+			- Identity and Access management
+			- Detection
+			- Infrastructure protection
+			- data protection
+			- Incident response
+			- Application security

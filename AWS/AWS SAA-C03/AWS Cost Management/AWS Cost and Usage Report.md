@@ -1,0 +1,3 @@
+-  You can receive reports that break down your costs by the hour, day, or month, by product or product resource, or by tags that you define yourself.
+-  AWS updates the report in your bucket once a day in comma-separated value (CSV) format
+- 

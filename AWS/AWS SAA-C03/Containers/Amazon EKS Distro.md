@@ -1,0 +1,2 @@
+- **EKS is a fully managed Kubernetes platform, while EKS-D is available to install and manage yourself**
+- You can run EKS-D on-premises, in a cloud, or on your own systems. EKS-D provides a path to having essentially the same Amazon EKS Kubernetes distribution running wherever you need to run it.

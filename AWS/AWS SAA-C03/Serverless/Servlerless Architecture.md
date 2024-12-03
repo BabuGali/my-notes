@@ -1,0 +1,9 @@
+- both API Gateway and Lambda scale automatically to support exactly the needs of your application
+- serverless logic tire
+	- API Gateway and Lambda enable the creation of a serverless logic tier
+- serverless presentation tire
+	- Amazon cloudFront
+	- Amazon Simple Storage Service
+- serverless data tire
+	- Amazon Aurora
+	- Amazon DynamoDB

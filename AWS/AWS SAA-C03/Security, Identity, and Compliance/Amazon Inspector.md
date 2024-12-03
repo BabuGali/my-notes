@@ -1,0 +1,5 @@
+- automated security assessment service
+- Vulnerability management service - **software Vulnerability and network exposure** 
+- Initiated on EC2 instance and ECR registry
+- to identify open network ports
+- **it calculate risk score by** calculating CVE ( Common Vulnerability and Exposure)

@@ -1,0 +1,5 @@
+- It  is cloud-native, **serverless BI service**
+- Allows everyone in your organization to understand your **data by asking questions in natural language,** exploring through **interactive dashboards**, or automatically looking for patterns and outliers powered by machine learning.
+- **natural language query capabilities in your applications**
+- allows users to create visualizations and dashboards
+- Amazon QuickSight retrieves data from Athena, S3, RDS, RedShift, MySQL, Snowflake, and many more

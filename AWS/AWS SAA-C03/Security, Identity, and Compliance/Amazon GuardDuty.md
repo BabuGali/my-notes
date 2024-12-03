@@ -1,0 +1,13 @@
+- Offers **threat detection** 
+- **continuously monitor** for **malicious activity and protect your AWS accounts**
+- can **integrate with Amazon EventBridge events** for actions over detections
+- can trigger Lambda for automated remediation or prevention 
+- It will analyse multiple data sources
+	- VPN Flow Logs
+	- DNS logs
+	- AWS CloudTrail events
+- Disable the service
+	- this action will delete all  remaining data, including your findings 
+- Suspend the service
+	- does not delete your existing findings or configurations
+![[Amazon GuardDuty.png]]

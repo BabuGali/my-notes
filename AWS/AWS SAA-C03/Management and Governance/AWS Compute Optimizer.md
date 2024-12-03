@@ -1,0 +1,6 @@
+- **Get recommendations to optimize your use** of AWS resources
+- AWS Compute Optimizer helps **avoid overprovisioning and under provisioning four  types of AWS resources**—
+	- Amazon Elastic Compute Cloud (EC2) instance types
+	-  Amazon Elastic Block Store (EBS) volumes
+	-  Amazon Elastic Container Service (ECS) services on AWS Fargate
+	-  AWS Lambda functions—based on your utilization data.

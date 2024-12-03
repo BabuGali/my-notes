@@ -1,0 +1,9 @@
+ - ACM provided certificates are are automatically renewed
+- ACM does not automatically renew the certificates that your import
+-  To use a third party certificate with **Amazon CloudFront**, you must import it into the **US East (N. Virginia) Region**
+- To use the same certificate with Elastic Load Balancing load balancers in different AWS Regions, you must import the certificate into each Region where you want to use it
+- ways to Check certificates expirations
+	- AWS Config rule
+	- CloudWatch metric alaram ( but it takes lot of effort)
+		- days to expiry metric
+	- 

@@ -1,0 +1,4 @@
+- Centrally manage the lifecycles of secrets
+- It helps you manage, retrieve, and rotate database credentials, API keys, and other secrets throughout their lifecycles.
+-  AWS lambda can be used to automatically rotate the screens on a schedule
+- 

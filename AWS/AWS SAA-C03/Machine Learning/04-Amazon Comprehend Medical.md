@@ -1,0 +1,8 @@
+- Amazon Comprehend Medical detects and return useful information in **unstructured clinical text**
+	- Physician notes
+	- Discharge summary
+	- Test results
+	- Case notes
+- Use NLP to detect protected health information
+- Store your documents in Amazon S3, analyse real-time data with Kinesis Data Firehose or use Amazon Transcribe to transcribe patient narratives into text that can be analysed by Amazon Comprehend Medical
+- 

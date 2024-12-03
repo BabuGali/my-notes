@@ -1,0 +1,36 @@
+- Amazon CloudWatch collects and visualizes real-time logs, metrics, and event data in automated dashboards to streamline your infrastructure and application maintenance.
+- To monitor performance
+- AWS monitoring
+- You can create alarms that watch metrics and send notifications or automatically make changes to the resources
+- **CloudWatch access logging**
+	- it captures which resource accessed the API and the method used to access the API
+	- 
+- **CloudWatch execution logging**
+	- it captures execution traces such as capturing request and response payloads
+	 - error traces
+- **Unified Cloudwatch  agent**
+	- aggregate_dimentions in the agent configuraton file
+	- Collect internal system level metrics from all EC2 installed and on-premises
+	- collect custom metrics from the applications on EC2 instances using statsD and CollectD protocols
+- cloudwatch standard metrics
+- following services are used along with Amazon CloudWatch
+	- Amazon SNS
+	- Amazon EC2 Scaling
+	- AWS cloudTrail
+	- IAM
+ - **Cloudwatch dashboard sharing**
+	- if user has no aws account and want see the logs
+		 - then share the dashboard from the cloudwatch console and provide a shareable link for the dashboard to the user
+	- CloudWatch Log subscription
+	- real time processing of log data with subscription
+	- after subscription it can be delivered to other services such as an Amazon Kinesis stream, an Amazon Kinesis Data Firehose stream, or AWS Lambda for custom processing, analysis, or loading to other systems.
+	- use a CloudWatch Logs subscription to stream log data in near real time to an Amazon OpenSearch Service cluster
+	- **A subscription filter**
+		- defines the filter pattern to use for filtering which log events get delivered to your AWS resource
+- Use cases
+	- monitor application performance
+	- perform root case analysis
+	- Optimize resource proactively
+		-  by setting actions to occur when thresholds are met based on your specifications or machine learning models.
+ - 
+	 - 

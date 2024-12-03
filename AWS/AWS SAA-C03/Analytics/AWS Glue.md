@@ -1,0 +1,10 @@
+- It is an an **event-driven,  serverless data integration service**
+- to **make data integration easier**
+- Data engineers and ETL (extract, transform, and load) developers can visually create, run, and **monitor ETL workflows**
+- AWS Glue runs your ETL jobs in an Apache Spark serverless environment
+- A database in the AWS Glue Data Catalog is a container that holds tables
+- Crawler to populate the AWS Glue Data Catalog with tables
+- Classifier is a component in the Crawler that generates the Schema
+- ## AWS Glue Schema Registry
+- ## AWS Glue Data Catalog
+- ## Extract, transform, and load (ETL)

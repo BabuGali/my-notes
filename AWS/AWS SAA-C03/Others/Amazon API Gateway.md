@@ -1,0 +1,7 @@
+- supports throttles request - to prevent API from being overwhelmed by too many requests
+- It is an AWS service for creating, publishing, maintaining, monitoring, and securing REST, HTTP, and WebSocket APIs at any scale
+- - Support for custom domain names
+- - Support for stateful WebSocket and stateless APIs.
+- Use API gateway to create HTTP APIs
+- Use API gateway to create websocket APIs
+- return error code 429 - for too many requests; when exceeded limit

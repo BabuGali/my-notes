@@ -1,0 +1,33 @@
+- online data transfer
+- can copy large amount of data to and from AWS storage services
+- **can schedule data** transfer
+- Transfer data between AWS and on premises
+- Transfer data between AWS storage services
+- uses an Agent
+- Protocols - NFS, SMB or using the Amazon S3 API
+- **AWS DataSync Discovery**
+	- to better understand your on-premises storage utilization and receive recommendations to inform your cost estimates
+	- and plans for migrating to AWS
+	- it accelerate data migration to AWS
+- Transfer data between AWS and other locations ( other public clouds)
+- DataSync Task Status
+	- Available
+	- Running
+	- Unavailable
+	- Queued
+- DataSync Task Execution Status
+	- QUEUED
+	- Launching
+	- Preparing
+	- Transferring
+	- Verifying
+	- Success
+	- Error
+	- 
+##### Use cases
+- migrate your data
+- protect your data
+- Archive your cold data
+	- Reduce on-premises storage costs by moving data directly to Amazon S3 Glacier archive storage classes.
+- hybrid data worflows
+	- Seamlessly move data between on-premises systems and AWS to accelerate your critical hybrid workflows

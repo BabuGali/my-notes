@@ -1,0 +1,4 @@
+- Direct connect
+- Direct connect + VPN
+- Site-to-site VPN
+	- can not provide low latency and high throughput

@@ -1,0 +1,11 @@
+- A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
+- Anonymous method
+- a method without name
+- Lambda Expressions implement the only abstract function and therefore implement functional interfaces lambda expressions are added in Java 8 and provide the below functionalities.
+	- Enable to treat functionality as a method argument, or code as data.
+	- A function that can be created without belonging to any class.
+- () -> System.out.println("Zero parameter lambda");
+- (p) -> System.out.println("One parameter: " + p);
+- A functional interface is **an interface that contains only one abstract method**. They can have only one functionality to exhibit. From Java 8 onwards, l**ambda expressions can be used to represent the instance of a functional interface**
+- An Interface that contains exactly one abstract method is known as functional interface. It can have any number of default, static methods but can contain only one abstract method. It can also declare methods of object class.
+- Functional Interface is also known as Single Abstract Method Interfaces or SAM Interfaces. It is a new feature in Java, **which helps to achieve functional programming approach.**

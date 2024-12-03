@@ -1,0 +1,7 @@
+- View important events and changes affecting your AWS environment
+- The AWS Health Dashboard is the single place to learn about the availability and operations of AWS services. You can view the overall status of AWS services, and you can sign in to view personalized communications about your particular AWS account or organization. Your account view provides deeper visibility into resource issues, upcoming changes, and important notifications.
+- Benefits
+	- Detailed troubleshooting guidance
+	- Proactive notifications
+	- Integration and automation
+		- You can use Amazon EventBridge to build custom rules and select targets, such as AWS Lambda functions, to define automated remediation actions for specific events.

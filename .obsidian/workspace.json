@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "96776c40376b927f",
+    "type": "split",
+    "children": [
+      {
+        "id": "808b09d5914e6e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bef8ed98632ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Interview Questions.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Interview Questions"
+            }
+          },
+          {
+            "id": "83fcbae05f53ede1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Cloud Native Development.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Native Development"
+            }
+          },
+          {
+            "id": "7993e1a560df1823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "images/Resilience and Fault Torenant.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Resilience and Fault Torenant"
+            }
+          },
+          {
+            "id": "f1ed3412b750e048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/open api account detils.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "open api account detils"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36742813025d1eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e28ce08aa2479b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "647d13d0fcbe3b9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33fd5bb2057fd492",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "AI/open api account detils",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "acc1e1e60cc210bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cfb428f24d20fd2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16fc97429251f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6764e574eaccdd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/open api account detils.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for open api account detils"
+            }
+          },
+          {
+            "id": "01dbe1f8c2cd9e22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/open api account detils.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from open api account detils"
+            }
+          },
+          {
+            "id": "4cc4820d4594d4b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50c3dc2983201d31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/open api account detils.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of open api account detils"
+            }
+          },
+          {
+            "id": "10137c5656d1eeb4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1ed3412b750e048",
+  "lastOpenFiles": [
+    "AWS/AWS SAA-C03/Others/Encryption.md",
+    "AWS/AWS SAA-C03/storage/S3.md",
+    "AWS/AWS SAA-C03/Databases/0 Databases.md",
+    "AI/Python/Road Map.md",
+    "AI/Python/key words.md",
+    "AI/Python/ChatGTP setup in Python.md",
+    "AI/How to master in ML & AI.md",
+    "AI/open api account detils.md",
+    "AI/Terminology.md",
+    "Interviews/Performance.md",
+    "English/Simple Sentences.md",
+    "English/Common Usage Words.md",
+    "English/Video songs.md",
+    "Interviews/java/Concepts.md",
+    "images/thread life cycle.png",
+    "Interviews/Distributed Transaction Management.md",
+    "images/Serialization Vs Externalization.png",
+    "Interviews/API Gateway.md",
+    "Interviews/Collections/ArrayList vs LinkedList.md",
+    "Interviews/java/Java Interview Questions.md",
+    "Interviews/java/Lambda Expression and Functional interaces.md",
+    "Interviews/Interview key words.md",
+    "Interviews/General Interview Questions.md",
+    "Interviews/Cloud Native Development.md",
+    "Interviews/Test-Driven Development.md",
+    "Interviews/SOLID Principles.md",
+    "Interviews/java/Java Architect.md",
+    "Interviews/java",
+    "Interviews/java/Java Programs.md",
+    "images/Pasted image 20240109235942.png",
+    "images/Pasted image 20240108120658.png",
+    "images/Pasted image 20240106184138.png",
+    "images/Pasted image 20240106114920.png",
+    "images/Pasted image 20240106114431.png",
+    "images/Pasted image 20240106112657.png",
+    "images/Pasted image 20240106112534.png",
+    "images/react vs angular.png",
+    "Angular",
+    "Interviews/Collections",
+    "Untitled",
+    "Interviews/Design Patterns",
+    "Interviews",
+    "Sticky",
+    "AI/Machine Learning/images",
+    "Save It For Latter/images",
+    "Save It For Latter",
+    "AWS/AWS SAA-C03/images/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,5 @@
+- cost of 1 GB test file 
+	- S3 standard < EFS < EBS
+	- S3 - $0.023 per GB per month
+	- EFS - $0.30 per GB per month
+	- EBS - $0.10*100( provisioned storage) = $10

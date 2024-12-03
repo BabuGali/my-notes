@@ -1,0 +1,10 @@
+1. Difference between Functional Programming and Object Oriented Programming ?
+	1. Object-oriented programming (OOP) is a programming paradigm that is based on the concept of “objects”, which are instances of a class. Functional programming (FP) is a programming paradigm that is based on the concept of “functions” that take inputs and produce outputs
+	2. OOP is based on the principles of encapsulation, inheritance, polymorphism, and abstraction. FP is based on the principles of immutability, referential transparency, higher-order functions, and recursion.
+	3. OOP uses encapsulation to hide the internal state and behaviour of an object from the outside world, and to allow the object to be accessed only through a well-defined interface. FP uses immutability to ensure that data cannot be modified after it is created, and referential transparency to ensure that a function will always produce the same outputs given the same inputs.
+	4. OOP uses classes and objects to model real-world entities and their behaviour. FP uses functions to describe the transformation of data.
+	5. OOP is more suitable for creating large, complex systems, while FP is more suitable for creating small, reusable components. It’s important to choose the right paradigm and apply best practices and design patterns to increase scalability.
+2. Does java support functional programming?
+	 - Java support all the Object-Oriented features such as Abstraction, Encapsulation, Polymorphism and Inheritance. From Java 8 onwards, it starts the support for Functional Programming.
+	 -  In java 8 there is a set of new implementations introduced for supporting functional programming such as lambda expression, streams, Optional class…etc.
+	 - With the help of lambda expressions, it is able to pass functions as the parameter of another function without wrapping it into an object

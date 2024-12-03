@@ -1,0 +1,6 @@
+[[ Cost ]]
+[[ S3 ]]
+[[ EBS ]]
+[[ EFS ]]
+[[ Snowball Edge ]]
+[[ EBS ]]

@@ -1,0 +1,7 @@
+- it easy for AWS customers to **securely exchange** and **use third-party data ** in the cloud
+- Data Files
+	- Ingest data files with Amazon S3
+- Data Tables
+	- Query data tables with AWS Data Exchange for Amazon Redshift
+- Data APIs
+	- Use AWS-native authentication and governance, AWS SDKs, and consistent API documentation

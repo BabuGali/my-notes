@@ -1,0 +1,11 @@
+- Speed up cloud provisioning with infrastructure as code
+- AWS CloudFormation lets you model, provision, and manage AWS and third-party resources by treating infrastructure as code.
+- **Outputs**
+	- declares output values that you can import into other stacks
+- **Conditions**
+	- to create conditions whenever you want to add, modify or delete resources
+- **Mappings**
+	- to set AMI  values based on region
+- **Parameters**
+	- to input custom values
+-![[CloudFormation Template.png]]

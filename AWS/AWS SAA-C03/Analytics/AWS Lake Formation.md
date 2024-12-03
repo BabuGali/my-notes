@@ -1,0 +1,3 @@
+- It  easily creates secure data lakes, making data available for wide-ranging analytics.
+-  **Quickly import data from all your data sources**, and then describe and manage them in a **centralized data catalog.**
+- 

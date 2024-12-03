@@ -1,0 +1,12 @@
+- In a **Monolith application**, a single error has the potential of bringing down the entire application. This can be avoided in a **Microservice architecture** since it contains smaller independently deployable units, which wont effect the entire system.
+- While architecting distributed cloud applications, you should assume that failures will happen and design your applications for resiliency. A Microservice ecosystem is going to fail at some point or the other and hence you need to **learn embracing failures**. Don’t design systems with the assumption that its going to be sunny throughout the year. Be realistic and account for the chances of having rain, snow, thunderstorms and other adverse conditions. In short, **design your microservices with failure in mind**. Things don’t go as per plan always and you need to be prepared for the worst case scenario.
+- Before releasing your new microservice to Production, make sure you have tested it good enough. Strange things might happen though and you should be ready for the worst case scenario. This means you should prepare to recover from all sort of failures gracefully and in a short duration of time. This gives confidence on the system’s ability to withstand failures & recover quickly with minimal impact. Hence it is important to identify failure scenarios in your architecture.
+- **Avoid cascading failures**
+- **Avoid single points of failure**
+- **Handle failures gracefully – Allow fast degradation**
+- **Design for Failures**
+- By following some commonly used design patterns you can make your service self-healing. Let us discuss about these design patterns in detail now.
+- **What are the Design Patterns to ensure Service Resiliency?**
+	- **Circuit Breaker Pattern** (**Polly** and **Hystrix**)
+	- **Retry Design Pattern**
+	- **Timeout Design Pattern**

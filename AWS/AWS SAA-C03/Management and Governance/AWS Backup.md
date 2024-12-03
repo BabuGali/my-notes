@@ -1,0 +1,3 @@
+- Centrally manage and automate data protection
+- AWS Backup is a cost-effective, fully managed, policy-based service that simplifies data protection at scale.
+- AWS Backup is a fully managed backup service that makes it easy to centralize and automate data backup across AWS services in the cloud and on-premises.

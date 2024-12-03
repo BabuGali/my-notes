@@ -1,0 +1,2 @@
+- dedicated network connection , does not involve the internet 
+- AWS Direct Connect links your internal network to an AWS Direct Connect location over a standard **Ethernet fiber-optic cable**. One end of the cable is connected to your router, the other to an AWS Direct Connect router
