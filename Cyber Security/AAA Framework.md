@@ -1,0 +1,10 @@
+- Authentication, Authorization and Accounting
+- Identity
+	- who you are?
+- Authentication
+	- prove you are who you say you are
+	- password and other authentication factors
+- Authorization
+	- What access do you have?
+- Accounting
+	- Login time, data received, data sent and logout time

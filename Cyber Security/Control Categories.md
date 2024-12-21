@@ -1,0 +1,17 @@
+- Control Categories 
+	- Technical
+	- Managerial
+	- Operational
+	- Physical
+- Control Types
+	- Preventive
+	- Deterrent
+	- Detective
+	- Corrective
+		- Apply a control after an event has been detected
+		- Reverse the impact of an event
+		- Continue operation with minimal downtime
+	- Compensating
+		- 
+	- Directive
+![[Control Categories.png]]

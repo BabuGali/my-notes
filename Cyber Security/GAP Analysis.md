@@ -1,0 +1,9 @@
+- Where you are compared with where you want to be
+	- The gap between the two
+- This may require extensive research
+	- An extensive study with numerous participants
+	- Evaluate people and process
+	- Identify weaknesses
+	- A detailed analysis
+	- Comparison - where we are and where we want to be
+- ![[GAP Analysis.png]]

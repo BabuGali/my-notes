@@ -1,0 +1,30 @@
+- Encrypting Storage Data
+	- Protect data on storage devices
+		- SSD, hard drive, USB drive, cloud storage
+		- This is the data at rest
+	- Full disk and partition/volume encryption
+		- BitLocker, FileVault, etc
+	- File Encryption
+		- EFS ( Encryption File System)
+-Encrypting Database
+	- Protecting the stored data
+	- And the transmission of that data
+	- Record level encryption
+		- encrypt individual columns
+		- Use separate symmetric keys for each column
+- Transport Encryption
+	- Protect data traversing the network
+	- Encrypting in the application
+	- VPN (Virtual Private Network)
+		- Client based VPN using SSL/TLS
+		- Site-to-Site VPN using IPsec
+		- 
+- Key Stretching
+	- A weak key is a weak key
+	- Make a weak key stronger by performing multiple process
+		- Hash a password. hash the hash of the password, etc
+		- Key stretching, key strengthening
+- Encryption Technologies
+	- Trusted Platform Module
+	- Hardware Secure Module (HSM)
+	- Key Management System

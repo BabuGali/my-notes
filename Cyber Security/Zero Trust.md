@@ -1,0 +1,28 @@
+- Who are you check
+- Many networks are relatively open on the inside
+	- once you are through the firewalls, there are few security controls
+- Zero trust is the holistic approach to the network security
+	- Covers ever device, every process and every person
+- Everything must be verified
+	- Nothing is inherently trusted
+	- Multi-factor authentication, encryption, system permissions, additional firewalls, monitoring and analytics
+- Controlling Trust
+	- Adaptive identity
+		- relationship to the organization
+		- ip address
+	- threat scope reduction
+		- Decrease the number of possible entry points
+	- Controlling trust
+- Security Zones
+	- Where are you coming from and where are you going
+	- Trusted, untrusted
+	- Internal network and external network
+	- Marketing, IT, Accounting, Human Resources
+- Policy enforcement point(PEP)
+	- The gatekeeper 
+	- Untrusted --> PEP --> Trusted
+- Applying Trust
+	- Policy Decision Point
+	- Policy Engine
+	- Policy Administrator
+![[Zero Trust.png]]

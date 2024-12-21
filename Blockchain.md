@@ -1,0 +1,2 @@
+- A distributed transactions
+- keep track of transactions

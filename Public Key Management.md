@@ -1,0 +1,22 @@
+- **Symmetric Encryption**
+	- A Single Key, Shared Key
+	- Encrypt with the key
+	- Decrypt with the same key
+- Doesn't scale very well
+	- can be challenging to distribute
+- Very fast to use
+	- less overhead than than the asymmetric encryption
+- **Asymmetric Encryption**
+	- Private Key
+		- Keep this private key
+	- Public key
+		- anyone can see this key
+      - The private key is the only key to decrypt the data encrypted using the public key
+      - you cant derive the private key from public key
+      - Key Generation
+	      - Build both public and private key at the same time
+	      - Lots of randomization
+	      - Large prime numbers
+	      - Lots of Lots of Math
+	      - ![[Asymmetric.png]]
+	      - ![[Asymetric-2.png]]
