@@ -1,0 +1,35 @@
+- These technics used in cyber security to exploit human psychologically to gain unauthorized access to data or systems or physical locations
+- Common Social Engineering technics
+	- Phishing
+		- Email Pretending
+		- Fake links directing to malicious websites
+	- Spear Phishing
+		- Email to employee pretending to be from their CEO requesting urgent financial transactions
+	- Pretexting
+		- 
+	- Baiting
+		- free software gifts, fake adds promising free download to install malware 
+	- Tailgating
+		- 
+	- Quid Pro Quo
+	- Impersonation
+	- Watering Hole attacks
+	- Dumpster Diving
+		- Analysing old hard drivers 
+	- Shoulder Surfing
+		- watching someone entering PIN at ATM
+	- Vishing
+		- using phone class to manipulate victim to steal sensitive data
+	- Smishing
+		- textmessage
+	- Scareware
+		- Pop-ups warning of an "urgent virus infection" requiring immediate software purchase.
+		- Threats of legal action unless the victim pays a fine
+	- Honey Traps
+- How to Defend Against Social Engineering
+	- Training and Awareness
+	- Verification Procedures
+	- Secure Disposal
+	- Multi-Factor Authentication
+	- Email and Web Filters
+	- Physical Security

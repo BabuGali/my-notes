@@ -14,3 +14,6 @@
 [[Encrypting Data]]
 [[Hashing And Digital Signature]]
 [[Blockchain]]
+[[Threat Actors]]
+[[Threat Vector]]
+[[Social Engineering Technics]]

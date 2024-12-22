@@ -1,0 +1,5 @@
+- A method used by the attacker
+- Gain access or infect the target
+- also called "attack vector"
+- IT security professional spend their career watching these vectors to protect existing vectors and finding new vecor
+- 
