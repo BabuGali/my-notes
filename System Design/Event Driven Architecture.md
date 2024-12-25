@@ -1,0 +1,6 @@
+- A change in state is called Event
+- Event-driven architecture ensure that when an event occurs, information about an event sent to all the systems or people that need it.
+- Advantages of Event Driven Architecture
+	- improves responsiveness
+	- scalability
+	- agility in the business

@@ -6,13 +6,14 @@
 	- Spear Phishing
 		- Email to employee pretending to be from their CEO requesting urgent financial transactions
 	- Pretexting
-		- 
+		- Before the attack, the trap is set
 	- Baiting
 		- free software gifts, fake adds promising free download to install malware 
 	- Tailgating
 		- 
 	- Quid Pro Quo
 	- Impersonation
+		- attackers pretended to be someone they are not
 	- Watering Hole attacks
 	- Dumpster Diving
 		- Analysing old hard drivers 
