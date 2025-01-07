@@ -1,0 +1,5 @@
+- Patching
+- Encryption
+- Monitoring
+- Least Privileges
+- Decommissioning

@@ -1,0 +1,59 @@
+Choosing the right API architectural style becomes crucial for ensuring performance, scalability, and flexibility.
+-Top 8 API architectural styles
+	- SOAP 
+		- Simple Object Access Protocol
+		- Protocol based 
+		- ensuring high availability and high security
+		- XML-based
+		- strict in  
+		- Pros
+			- It handles errors and exceptions well, as it uses SOAP faults that provide detailed information.
+			- It supports complex queries and operations, such as transactions, security, or authentication.
+		- Cons
+			-  It is complex and verbose to use and understand.
+			- It does not follow the principles of the web and adds overhead to the existing protocols.
+			- It is not scalable or performant, as it does not support caching
+			- It is not flexible or extensible, as it requires changes to the contract for any modifications.
+		- Usage
+			- The clients and servers are tightly coupled and dependent.
+			- It’s heavily used in financial services and payment gateways where security and reliability are key
+	- REST 
+		- Representational State Transfer
+		- For stateless interactions
+		- most popular due to its simplicity and  use of standard HTTP methods
+		- Pros
+			- It is simple and easy to use and understand.
+			- It follows the rules of the web and uses existing standards and protocols.
+			- It is fast and can handle many requests, as it supports caching and statelessness.
+		- Cons
+			- It does not have a clear contract or schema, which can make it unclear and inconsistent.
+			- It does not handle errors or exceptions well, as it uses HTTP status codes that are not always clear or correct.
+	- GraphQL
+		- A query language provides the client the ability to request exactly the data they need
+	- gRPC
+		- Google Remote Procedure Call
+		- for real time communications
+		- it uses HTTP/2
+		- It’s a favourite for microservices architectures, and companies like Netflix use gRPC to handle their immense interservice communication. However, if you’re dealing with browser clients, gRPC might pose some challenges due to limited browser support.
+		- Pros
+			- It supports complex queries and operations, such as streaming, bidirectional communication, authentication, or encryption.
+			- - It is fast and efficient, as it **uses binary format and HTTP/2** features to reduce latency and bandwidth
+		 -when to use 
+			 - when you need high performance, low latency communication, especially in scenarios like microservices architecture, real-time streaming, communication between multiple languages, or when dealing with low-bandwidth networks due to its efficient binary message format (Protobuf) and ability to leverage HTTP/2 features like multiplexing and server push.
+			 - Key situations to use gRPC
+				 - **Microservices communication:**
+				 - **Real-time streaming:**
+				 - **Polyglot environments:**
+				 - **Low-power devices:**
+	- WebSocket
+		- for long lived connections
+		- ideal for real time applications like chat or gaming
+	- Webhook
+		-  Event-driven communication style where one system sends data to another in response to specific events. 
+		- Great for 𝗮𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 triggers and automation.
+	- MQTT
+		- Message Queue Telementry Transport
+		-  A lightweight protocol designed for 𝗹𝗼𝘄-𝗯𝗮𝗻𝗱𝘄𝗶𝗱𝘁𝗵, 𝗹𝗼𝘄-𝗽𝗼𝘄𝗲𝗿 devices, often used in 𝗜𝗼𝗧 applications.
+	- AMQP
+		- Advanced Message Queuing Protocol
+		-  A  message-oriented protocol built for 𝗿𝗼𝗯𝘂𝘀𝘁, 𝗿𝗲𝗹𝗶𝗮𝗯𝗹𝗲, and 𝘀𝗲𝗰𝘂𝗿𝗲 messaging between systems.

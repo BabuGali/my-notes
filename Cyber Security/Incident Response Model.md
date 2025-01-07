@@ -1,0 +1,1 @@
+https://jamcyber.com/blog/cyber-security-resources/incident-response-plan/

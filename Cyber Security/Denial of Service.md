@@ -1,0 +1,6 @@
+- DOS
+- Force a service to fail
+- DDOS- Distributed Denial of Service
+- A denial of service (DoS) attack is a cyberattack that attempts to make a network or machine resource unavailable to its intended users
+-  **DoS**: A single computer is used to flood a server with traffic, making a website or resource unavailable.
+- **DDoS**: Multiple computers or machines are used to flood a targeted resource.

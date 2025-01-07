@@ -1,0 +1,29 @@
+- Memory Injections
+- Buffer Overflows
+- RaceCondition
+- Brute force
+- RFID Cloning
+- Environmental attack
+- DNS attack
+- DNS spoofing / DNS Poisoning
+- Domain hijaking
+- URL hijaking
+- Wireless Attack
+- On-path attacks
+	- Man-in-the-middle
+- on-path browser attack
+- replay attacks
+- Application attack
+	- code injection
+- exploit
+- cross-site-request attack
+- Malicious code
+- CSRF, XSRF
+- Cryptographic attacks
+- brute force
+- SSL Stripping
+- spraying attack
+- Segmenting the network
+- Hardening Techniques
+- Cloud responsibility matrix
+- 

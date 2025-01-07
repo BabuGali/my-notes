@@ -1,0 +1,21 @@
+- A method used by the attacker
+- Gain access or infect the target
+- also called "attack vector"
+- IT security professional spend their career watching these vectors to protect existing vectors and finding new vector
+- message based threat vector
+- unsupported systems
+- unsecure network access
+	- wired
+	- wireless
+	- bluetooth
+- Open Service ports
+	- TCP, UDP
+- Default credentials
+- agentless software threat vectors
+	- primarily involve vulnerabilities related to the network infrastructure, system configurations, and API access points that an agentless security solution relies on to collect data
+	- **Exploitation of APIs**:
+	- **Misconfigured Cloud Services**
+	- Credential Compromise
+	- **Network Protocol Exploits**:
+	- **Exploitation of Remote Management Tools**:
+	- Privilege Escalation

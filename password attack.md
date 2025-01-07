@@ -1,0 +1,4 @@
+- Spraying attack
+- Brute force
+	- try every possible password combination until the hash is matched
+	- 

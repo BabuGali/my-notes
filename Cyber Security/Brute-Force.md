@@ -1,0 +1,4 @@
+- A brute force attack is a cyber attack where an attacker attempts to gain access to a system by guessing passwords, login credentials, or encryption keys
+- Password Spraying Attack
+	- **Password spraying** is a type of brute force attack. In this attack, an attacker will brute force logins based on list of usernames with default passwords on the application. For example, an attacker will use one password (say, Secure@123) against many different accounts on the application to avoid account lockouts that would normally occur when brute forcing a single account with many passwords.
+	- **Brute force attacks on RDP connections**

@@ -1,0 +1,3 @@
+- your network is really secure and the attackers can't get in and not responding to phishing mails and not opening any mails then attacker choose watering attack
+- watering attack means - the attackers find the third party applications which are access then they spoil the the third party applications and waiting to you to visit those appications
+- Example - Ordering Coffee from the site

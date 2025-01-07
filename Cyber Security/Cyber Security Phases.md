@@ -1,4 +1,5 @@
 - Below are the five functions of any Cyber Security Framework 
+- ![[cyber security phases.png]]
 - Identity
 	- **Identifying physical and software assets**
 	- **Identifying cybersecurity policies**
@@ -20,4 +21,4 @@
 	- **Setting up Recovery Planning**
 	- **Adjusting processes**
 	- **Coordinating communication**
-![[cyber security phases.png]]
+![[images/cyber security phases.png]]

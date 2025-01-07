@@ -1,0 +1,7 @@
+- **Rules of engagement** 
+	- Rules of engagement (ROE) in cybersecurity area set of guidelines that ensure cybersecurity practices are ethical, legal, and responsible. They can apply to penetration testing projects, or more generally to the practices of cybersecurity professionals
+- Active reconnaissance
+	- In a penetration test, "active" refers to a method of gathering information about a target system by directly interacting with it, such as performing a port scan, vulnerability scan, or attempting to exploit known vulnerabilities, essentially "probing" the system to identify potential weaknesses
+	- Examples of active techniques include port scanning with Nmap, web application fuzzing, attempting to access restricted areas, and exploiting known vulnerabilities.
+- Passive reconnaissance
+	-  In contrast, passive penetration testing involves gathering information about a target system without directly interacting with it, typically using publicly available sources like social media, domain registration records, or website analysis

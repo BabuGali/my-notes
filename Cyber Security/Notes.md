@@ -1,0 +1,8 @@
+- Sideloading
+	- The process of installing software on a device from a source other than the official app store or approved distribution channel, essentially bypassing the security checks in place, which can significantly increase the risk of downloading and installing malicious software (malware) on a device; essentially meaning users are installing apps from untrusted sources.
+- hacktivism 
+	- the act of using hacking techniques to promote a political or social cause
+- Disruption and chaos
+	- a situation where malicious cyber attacks cause significant operational disruptions, widespread data breaches, and significant system instability, often impacting critical services and causing significant damage to businesses and individuals, creating a state of uncertainty and panic due to the rapid and unpredictable nature of the attacks
+- Shadow IT
+	- 
