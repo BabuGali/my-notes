@@ -1,0 +1,1 @@
+- Listening to someone is not the same as agreeing with them

@@ -23,6 +23,7 @@
 	- Cyber Criminals
 	- Hackers
 	- Nation-State actors
+		- A nation-state actor is a government or state entity that conducts cyber attacks or other malicious activities against another nation's critical infrastructure
 	- Inside Threats
 - Staying ahead of Cyberattacks
 	- Strong passwords

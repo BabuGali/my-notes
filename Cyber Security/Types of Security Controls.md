@@ -7,20 +7,27 @@ There are several types of controls to protect software, hardware, network and d
 		- biometric access control system
 		- Surveillance Cameras
 		- intrusion detection sensors
-	- Digital Security Control
+	- Digital Security Control or Technical Security 
 		- usernames and passwords
 		-  two-factor authentication
 		- antivirus software and firewalls
-		-
+		- ID's
 	- Cybersecurity Control
 		- anything specifically designed to prevent attacks on data, including DDoS mitigation and intrusion prevention systems
 	- Cloud Security Control
 		- include measures that you take in cooperation with a cloud services provider to offer the necessary protection for data and workloads
+	 - Managerial security controls or administrative Security Controls
+	- operational security controls
+		- Patch management
+		- Configuration management
+		- System backups
 - Other Types of Security Control
 	- Detective Control
 		- Identify incidents after they've occurred so that corrective action can be taken.
 	- Corrective Control
 		- Reduce the effect of an incident.
+	 - Preventive Control
+	 - Deterrent Control
 	- Compensating Control
 		- Alternative controls used when a primary control isn't feasible.
 
@@ -44,3 +51,4 @@ There are several types of controls to protect software, hardware, network and d
 		- Discourage people from performing an action by making them fear the consequences. For example, a "Beware of Dog" sign or large fines for speeding are deterrent controls. Deterrent controls are often the first line of defense and can be especially effective against inexperienced attackers.
 	- Preventive controls
 		- Prevent an incident from occurring or reduce its impact. For example, a locked warehouse with access restricted to authorized employees is a preventative control. Preventive controls can protect a system, but they don't eliminate the risk of an incident.
+		- Configuration management
