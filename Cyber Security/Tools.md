@@ -1,0 +1,15 @@
+- Wireshark
+	- Its a free and open source network protocol analyser
+	- its do packet snipping 
+	- Used to inspect and debug network communications, identifying security vulnerabilities and troubleshoot network issues
+- Metasploit - 
+	- used for penetration testing to identify vulnerabilities in systems, networks an applications
+	- Its designed to simulate real-world attacked and provide a comprehensive understanding of potential risks
+- Nmap 
+	- scans for network exploration, security auditing and network inventory
+	- Network Mapper
+- Nessus 
+	- Widely used to identify and report potential security vulnerabilities in computer systems, networks and applications
+- WEP
+	- It is a security protocol used in wireless networks to provide a level of encryption and authentication for data transmitted over the air.
+		-

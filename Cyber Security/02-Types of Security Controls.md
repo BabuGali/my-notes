@@ -1,3 +1,7 @@
+
+
+![[Types of Security Controls.png]]
+
 There are several types of controls to protect software, hardware, network and data
 	- Physical Controls
 		- data centre perimeter fencing

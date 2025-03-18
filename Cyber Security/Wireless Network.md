@@ -1,0 +1,12 @@
+- SSID Broadcast
+	- SSID - Service Set Identifier
+	- The SSID is the name of a wireless network that is broadcasted so devices can easily discover it.
+	- By default, most wireless routers broadcast the SSID, making the network name visible to nearby devices.
+- Best security measures
+	- WPA3 (Wi-Fi Protected Access)
+	- WPA2 encryption
+	- Setting a strong, complex password.
+	- Implementing MAC address filtering, if necessary.
+- Best Practices:
+	- Disabling SSID broadcast should be used as part of a layered defense strategy.
+	- Ensure proper encryption and regularly update the router's firmware for better overall security.

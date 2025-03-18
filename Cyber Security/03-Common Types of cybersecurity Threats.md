@@ -1,0 +1,41 @@
+- **Phishing**
+- **Malware**
+	- shorts for - **Malicious Software** - is a software code that is written intentionally to a computer system or its users
+	 - **Ransomware**
+		- locks a victims data or device and threatens to keep it locked or leak it publicly, unless the victim pays a ransom to the attacker
+	- **A Trojan horse**
+		- It is malicious code that tricks the people  into downloading it by appearing it to be useful programme.
+		- RAT's - Remote Access Trojan
+	- **Spyware**
+		- It is a highly secretive malware that gathers the sensitive information like usernames, passwords, credit card numbers and other personal data, and transmits it back to the attacker without the victim knowing.
+	- **Worms**
+		-  self-replicating programs that automatically spread to apps and devices without human interaction.
+	- **Viruses** 
+		- Self-replicating programs that attach to files and spread.
+-  **Denial of Service (DoS) and Distributed Denial of Service (DDoS)**
+- **SQL Injection**
+- **Cross-Site Scripting (XSS)**
+- **Social Engineering**
+- **Zero-Day (0day) Exploits**
+- **Credential Attacks**:
+	- Social Engineering and Phishing
+	- Man In The Middle Attack
+	- Denial of Service attack
+	- Zero Day exploits
+	- Password attack
+	- Internet of things attack
+	- Injection attacks
+- Source of Cyber Security attacks
+	- mostly for financial gain
+	- Cyber Criminals
+	- Hackers
+	- Nation-State actors
+		- A nation-state actor is a government or state entity that conducts cyber attacks or other malicious activities against another nation's critical infrastructure
+	- Inside Threats
+- Staying ahead of Cyberattacks
+	- Strong passwords
+	- Email security tools
+	- antivirus software's
+	- Organizations also rely on firewalls, VPNs, Multi factor authentication, Security awareness training
+- However, no security system is complete without threat detection and incident response capabilities to identify cyber security threats in real-time
+	

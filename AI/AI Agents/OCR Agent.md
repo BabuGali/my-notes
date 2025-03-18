@@ -1,0 +1,1 @@
+https://sebastian-petrus.medium.com/top-10-ocr-libraries-for-your-ai-agents-workflow-17028cb82e6e

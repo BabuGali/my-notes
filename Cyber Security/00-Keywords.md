@@ -1,0 +1,20 @@
+- malicious actors
+- compromised network
+- **Jailbreaking** - is the process of removing restrictions on a device's operating system. This gives users more control over their device, but it also introduces security risks
+- Risk assessment
+- Gap analysis
+- Penetration testing
+- Compliance Auditing
+- access control vestibule
+- erecting bollards
+- **Chain of Custody** - A chain of custody in cybersecurity is a process for tracking and documenting digital evidence from its collection to its presentation in court. It's a vital part of cybersecurity that helps ensure the integrity and security of digital evidence.
+-  **Diffie-Hellman algorithm** -  is a method for securely exchanging cryptographic keys over insecure channels without compromising the security and integrity of data transmission
+- **Watering hole** -  is a cyberattack that infects a website that a target group frequently visits. The goal is to deliver malware to the target's device, which can lead to access to their network and personal information.
+- Typosquatting
+- Whaling
+- Watering hole
+- virtual machine (VM) escape
+- Network based firewall and host based firewall
+- Threat Hunting 
+- Air Gapping
+- Code signing

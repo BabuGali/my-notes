@@ -1,0 +1,5 @@
+- HSM
+- TPM
+	- A Trusted Platform Module (TPM) is a chip on a computer's motherboard that protects sensitive information and enhances security
+	- TPMs use cryptography to store and protect cryptographic keys, passwords, certificates, and other sensitive data.
+	- 

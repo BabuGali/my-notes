@@ -1,0 +1,11 @@
+- Verifiable responses
+- sophisticated hardware
+- data corpus - A collection of genuine audio or text
+- Parametric knowledge
+- Non - Parametric Knowledge
+- Rational Behaviour 
+- Autonomous AI agents
+- Blended search
+- data labeling 
+- Wicked problems
+- cringe comedy
